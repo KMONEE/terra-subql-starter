@@ -7,7 +7,7 @@ This is a starter project for Indexing Terra. It includes a simple blockhandler 
 ### 1. Install dependencies
 
 ```shell
-yarn
+yarn install
 ```
 
 ### 2. Generate types
